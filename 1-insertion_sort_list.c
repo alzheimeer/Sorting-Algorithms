@@ -1,7 +1,7 @@
 #include "sort.h"
 
 /**
- * inter_nodes -  Swap two nodes in a listint_t doble linked list.
+ * inter_nodes -  Swap two nodes in a listint_t doble linked list
  * @h: A pointer to the head of the double linked list
  * @n1: A pointer to the first node to swap
  * @n2: The second node to swap
